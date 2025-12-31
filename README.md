@@ -14,9 +14,9 @@ Hi! I'm a Data Analyst skilled in Python, SQL, and data visualization (Power BI)
 ### 1️⃣ Student Management System
 A Python-based project demonstrating file handling, OOP concepts, and data management using CSV files.
 
-➡️ [View Project](./studentmanagement)
+➡️ [View Project](./Portfolio_Students)
 
 ### 2️⃣ World Population Analysis
 Exploratory data analysis and SQL-based insights on global population trends.
 
-➡️ [View Project](./world-population-analysis)
+➡️ [View Project](./Portfolio_WorldPopulation)
