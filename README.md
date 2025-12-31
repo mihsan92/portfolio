@@ -1,19 +1,22 @@
-# portfolio
+# Data Analysis Portfolio
 
-👋About Me
+Hi! I'm a Data Analyst skilled in Python, SQL, and data visualization (Power BI).
 
-I am a data professional with a Master’s degree in Corporate Management and a Bachelor’s in Industrial Engineering, Currently looking for a new opportunity.
+## 🧠 Skills
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- SQL (Data querying, joins, aggregations)
+- Data Cleaning & EDA
+- Data Visualization
+- Git & GitHub
 
-My experience:
+## 📂 Projects
 
-Data Analysis: Analyzing large and complex datasets to provide actionable insights and answer client business questions.
+### 1️⃣ Student Management System
+A Python-based project demonstrating file handling, OOP concepts, and data management using CSV files.
 
-Data Quality & Validation: Conducting daily data checks to ensure accuracy and integrity.
+➡️ [View Project](./studentmanagement)
 
-Business Intelligence & Reporting: Building and maintaining KPI dashboards and reports in Power BI to drive insights and decision-making.
+### 2️⃣ World Population Analysis
+Exploratory data analysis and SQL-based insights on global population trends.
 
-Team & Stakeholder Support: Providing functional guidance, technical support, and training to internal teams and support staff.
-
-I’m actively developing advanced skills in SQL and Python to perform deeper analysis, streamline processes, and extract actionable insights. Passionate about Business Intelligence and Data Analysis, I thrive on transforming complex data into clear, impactful solutions that support business growth.
-
-Currently seeking Data Analyst opportunities where I can leverage my BI expertise, analytical mindset, and growing technical toolkit to deliver data-driven value.
+➡️ [View Project](./world-population-analysis)
