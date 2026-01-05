@@ -27,7 +27,7 @@ A Python-based system demonstrating structured data handling, object-oriented de
 ---
 
 ### 2️⃣ World Population Analysis
-Exploratory data analysis and SQL-based insights on global population trends.
+Exploratory data analysism Python and SQL-based insights on global population trends.
 
 **Data source:** World Bank Open Data – Population, total (SP.POP.TOTL)  
 https://data.worldbank.org/indicator/SP.POP.TOTL  
